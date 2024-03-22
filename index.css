@@ -39,3 +39,6 @@ grid-row-gap: 0px;
     margin: 5px;
     box-sizing: border-box;
 }
+.result{
+   text-align: center;
+}
